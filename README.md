@@ -1,7 +1,12 @@
-# Bem Vind@!
+# Olá! Bem vindo(a) ao meu perfil!
+## Sobre mim
+- Entusiasta de dados, pai de dois e historiador nas horas vagas
+- Tableau, SQL e Alteryx são incríveis!
+- Curiosidade e trabalho em equipe 
 
-Olá! Chamo-me Raphael Pires e este é um repositório para organizar projetos, cases de estudo e eventualmente minha produção enquanto profissional de dados.
-
-Fiz uma transição de carreira no início da pandemia de COVID-19. Uma migração do universo da Educação para a Análide Dados. NEste tempo, tive oportunidade de atuar como consultor em clientes de Trademarketing, Chatbot, E-commerce e outros, atuando principalmente com Tableau, Power BI, SQL, SQL-Hive, Python, e gestão de projetos ágeis.
-
-Atualmente estou fortalecendo minhas habilidades com Python e também com PowerBi, visto que minha carreira foi bastante direcionada para o Tableau.
+## O que estou fazendo atualmente
+- Na Academia estou cursando MBA em Big Data, BI e Analytics aplicados aos negócios pela UNESA
+- Fortalecendo meus conhecimentos sobre análise de dados utilizando Python e estudando para as Certificações da Tableau
+- Criando análises de dados com Python, Tableau e PowerBi para demonstrar essa evolução de hard skills
+- Aprendendo os fundamentos de Engenharia de Dados 
+## Contate-me
